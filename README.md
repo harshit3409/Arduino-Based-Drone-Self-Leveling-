@@ -51,7 +51,7 @@ This README documents how to use the files, the wiring/pin mapping I used, calib
 
 ---
 
-# Wiring & pin mapping (my build — change in `YMFC-AL_setup.ino` if needed)
+# Wiring & pin mapping 
 
 **I²C (MPU‑6050)**
 
